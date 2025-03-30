@@ -1,0 +1,23 @@
+1.What are some special number values?
+
+ Ans -NaN And infinity are special number values
+
+2.Which operator helps you in type-checking. Finding the data type of any value?
+ 
+ Ans - typeof operator helps in type-checking.
+
+3.What is the difference between null and undefined?
+ Ans-  undefined: Absence of data means a variable has been declared but not assigned value.
+       type of undefined is undefined 
+       null: intentionally absence of data and type of null is object which is bug in js.
+
+4.Define an object with key as username and value will be your name?
+ Ans - {
+      username: "Deepak"
+ }
+
+5.What is the difference between primitive and non-primitive values?
+ Ans- Primitive contain only one value and these are immutable.
+     ex- number,string,boolean,null,undefined,bigint,symbol
+      non-primitive (Reference) contain key and value pair and these are mutable
+       ex- object
